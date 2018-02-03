@@ -1,8 +1,7 @@
 /*
-* IRremote Library - Copyright 2009 Ken Shirriff
-* created by Rui Santos, http://randomnerdtutorials.wordpress.com
-* Control LED's with a remote control
-* 2013
+* IRremote Library
+* Control LED's, Piezzo buzzer, Servos with a remote control
+* 2018 
 */
 
 #include <IRremote.h>
