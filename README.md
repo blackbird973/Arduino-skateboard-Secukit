@@ -43,6 +43,10 @@ Schema created by me on Adobe Illustrator to present the project and the differe
 
 ![feuille11](https://user-images.githubusercontent.com/10677178/35777591-018cbd60-09b1-11e8-910f-59c941b77491.JPG)
 
+## Sync the IR Remote with Arduino
+
+To assign a button of your ir remote to an action of the arduino, open the file ir-test.ino in the root folder and televerse it in your arduino, don't forget to plug your ir receiver in, the open the serial monitor and press the button you want on the remote, you will see a hexcode appear, convert it in decimal and put it in the main code.
+
 ## FINAL PROJECT PICTURES 📷
 
 You can find all the photos of the final project in the /images/ folder.
