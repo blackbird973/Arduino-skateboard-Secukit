@@ -11,3 +11,11 @@ Schema created by me on Adobe Illustrator to present the project and the differe
 
 ## Global Electric Circuit
 
+![feuille11](https://user-images.githubusercontent.com/10677178/35777591-018cbd60-09b1-11e8-910f-59c941b77491.JPG)
+
+## FINAL PROJECT PICTURES
+
+You can find all the photos of the final project in the /images/ folder.
+
+
+
