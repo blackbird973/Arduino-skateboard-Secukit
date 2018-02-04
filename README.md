@@ -17,5 +17,6 @@ Schema created by me on Adobe Illustrator to present the project and the differe
 
 You can find all the photos of the final project in the /images/ folder.
 
+![feuille6_pret](https://user-images.githubusercontent.com/10677178/35777617-7722655c-09b1-11e8-9be9-9c9d1fef11cd.png)
 
 
