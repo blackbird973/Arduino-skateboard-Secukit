@@ -41,7 +41,7 @@ Schema created by me on Adobe Illustrator to present the project and the differe
 
 ## Video Presentation 🎥
 
-https://youtu.be/nQNa_4hM1ul
+https://youtu.be/nQNa_4hM1uI
 
 ## Global Electric Circuit ⚡
 
